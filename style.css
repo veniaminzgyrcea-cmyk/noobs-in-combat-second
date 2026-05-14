@@ -341,7 +341,7 @@ a:hover{
         flex-direction: column;
     }
     .category{
-        width: 120%;
+        width: 140%;
     }
     .animation{
         height: 130dvh;
@@ -355,5 +355,8 @@ a:hover{
     }
     .Header{
         justify-content: center;
+    }
+    .hero-left{
+        width: 150%;
     }
 }
