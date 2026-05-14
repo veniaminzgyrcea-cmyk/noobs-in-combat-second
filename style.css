@@ -359,4 +359,7 @@ a:hover{
     .hero-left{
         width: 150%;
     }
+     .bottom-title h1{
+        font-size: 30px;
+    }
 }
